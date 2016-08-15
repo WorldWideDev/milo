@@ -1,0 +1,19 @@
+{
+  "name": "milo",
+  "version": "1.0.0",
+  "description": "artist page for milo aka blazinkush",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Devon Newsom",
+  "license": "ISC",
+  "dependencies": {
+    "angular": "^1.5.8",
+    "angular-route": "^1.5.8",
+    "bootstrap": "^3.3.7",
+    "express": "^4.14.0",
+    "jquery": "^3.1.0"
+  }
+}
